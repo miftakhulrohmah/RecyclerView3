@@ -14,9 +14,6 @@ import java.util.ArrayList;
 import id.sch.smktelkom_mlg.learn.recyclerview3.R;
 import id.sch.smktelkom_mlg.learn.recyclerview3.model.Hotel;
 
-/**
- * Created by Smktelkom on 10/29/2016.
- */
 public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.ViewHolder> {
     ArrayList<Hotel> hotelList;
     IHotelAdapter mIHotelAdapter;
